@@ -71,33 +71,3 @@ h1, h2, h3, h4, h5, h6 {
   font-size: inherit;
   font-weight: 400;
 }
-
-.block {
-  width: 31.25%;
-  background-color: #979595;
-  padding: 30px;
-  line-height: 60px;
-}
-.block .block-text {
-  font-size: 100px;
-}
-.block .block-text span {
-  color: red;
-}
-
-.link {
-  color: blue;
-  text-decoration: underline;
-  font-size: 100px;
-}
-.block .link {
-  font-size: 100px;
-}
-.link:hover {
-  color: red;
-}
-
-.link-2 {
-  font-size: 100px;
-  color: blue;
-}
